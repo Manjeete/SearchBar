@@ -1,3 +1,3 @@
 # SearchBar
 
-[see](https://manjeete.github.io/SearchBar/.)
+[see]( https://manjeete.github.io/SearchBar/)
